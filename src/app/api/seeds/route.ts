@@ -17,10 +17,6 @@ const seeds = [
         name: "Глючные",
         id: "glitchy"
     },
-    {
-        name: "Глючные",
-        id: "glitchy"
-    },
 ];
 
 export async function GET() {
