@@ -4,6 +4,7 @@ export async function GET() {
       <ul>
       <li><a href="/api/servers">/api/servers</a></li>
       <li><a href="/api/textures">/api/textures</a></li>
+      <li><a href="/api/skins">/api/skins</a></li>
       </ul>
     `, {
       headers: {
