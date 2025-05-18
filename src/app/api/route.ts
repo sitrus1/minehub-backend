@@ -8,6 +8,7 @@ export async function GET() {
       <li><a href="/api/mods">/api/mods</a></li>
       <li><a href="/api/minecraft">/api/minecraft</a></li>
       <li><a href="/api/seeds">/api/seeds</a></li>
+      <li><a href="/api/maps">/api/maps</a></li>
       </ul>
     `, {
       headers: {
